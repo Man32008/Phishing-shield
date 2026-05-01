@@ -188,4 +188,4 @@ That's it. The script will:
 
 ---
 
-*Submitted as part of [Independent Project] — [2026]*
+*Submitted as part of Independent Project — 2026*
